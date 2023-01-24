@@ -2,7 +2,7 @@
 
 <h1 align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=5198F3&lines=Hi+there!+%F0%9F%91%8B+;I'm+Pedro+Mello;A+Full+Stack+Developer;Nice+to+meet+you!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=5198F3&lines=Olá!+%F0%9F%91%8B+;Me+chamo+Pedro+Mello;Um+desenvolvedor+Fullstack;Seja+bem-vindo!">
   </a>
 </h1>
 
@@ -11,10 +11,6 @@
   - Amante de jogos, competições e codar
   - Sempre aprendendo algo novo 
   - Próximos passos: 
-
-<div float="left"> 
-  <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-</div>
 
 <br>
 
