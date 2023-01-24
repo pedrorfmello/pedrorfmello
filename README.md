@@ -6,23 +6,19 @@
   </a>
 </h1>
 
-  - Fullstack student 
-  - Currently studying at Trybe
-  - Great lover of games, competition and code
-  - Always learning something new 
-  - Next steps: 
+  - Desenvolvedor Fullstack 
+  - Atualmente estudando na Trybe
+  - Amante de jogos, competições e codar
+  - Sempre aprendendo algo novo 
+  - Próximos passos: 
 
 <div float="left"> 
-  <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
-  <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> 
   <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-  <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
-  <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 
 <br>
 
-## Knowledge 💻🚀
+## Conhecimento 💻🚀
 
 <div float="left">
   <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> 
@@ -39,18 +35,21 @@
   <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
+  <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> 
+  <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
  
 <br>
 
-## Contact 📪
+## Contato 📪
 <a rel="noreferrer noopener" target="_blank" href="https://www.linkedin.com/in/pedro-rfmello/"><img style="max-width: 100%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a rel="noreferrer noopener" target="_blank" href="mailto: pedro.mello.rj@gmail.com"><img style="max-width: 100%" src="https://img.shields.io/badge/Gmail-EBEBEB?style=for-the-badge&logo=gmail&logoColor=red"></a>
 <a rel="noreferrer noopener" target="_blank" href="https://api.whatsapp.com/send?phone=5521967577713"><img style="max-width: 100%" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 <br>
 
-## Stats ⚡
+## Status ⚡
 <div align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
