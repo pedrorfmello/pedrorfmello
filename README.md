@@ -10,9 +10,6 @@
   - Atualmente estudando na Trybe
   - Amante de jogos, competições e codar
   - Sempre aprendendo algo novo 
-  - Próximos passos: 
-    - 
-
 <br>
 
 ## Conhecimento 💻🚀
