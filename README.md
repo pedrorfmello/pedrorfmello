@@ -6,10 +6,13 @@
   </a>
 </h1>
 
-  - Desenvolvedor Fullstack 
-  - Atualmente estudando na Trybe
-  - Amante de jogos, competições e codar
-  - Sempre aprendendo algo novo 
+  - 🌐 Desenvolvedor Web Fullstack mas com uma paixão pelo Front-End
+  - 💚 Atualmente estudando na Trybe
+  - 👨‍ Meu objetivo é colaborar com projetos que me façam aprender e agreguem valor para a sociedade!
+  - 🕹️ Amante de jogos, competições e codar
+  - 🤹 Sempre aprendendo algo novo 
+  - 🎯 Estou praticando TypeScript com POO.
+  - 🏰 Arquiteturas e princípios: MSC, POO, SOLID.
 <br>
 
 ## Conhecimento 💻🚀
