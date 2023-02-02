@@ -5,7 +5,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=5198F3&lines=Olá!+%F0%9F%91%8B+;Me+chamo+Pedro+Mello;Um+desenvolvedor+Fullstack;Seja+bem-vindo!">
   </a>
 </h1>
-
+  
+  - 🗺️ Mineiro de Cataguases, 26 anos
   - 🌐 Desenvolvedor Web Fullstack mas com uma paixão pelo Front-End
   - 💚 Atualmente estudando na Trybe
   - 👨‍ Meu objetivo é colaborar com projetos que me façam aprender e agreguem valor para a sociedade!
