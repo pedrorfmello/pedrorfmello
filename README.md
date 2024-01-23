@@ -6,13 +6,12 @@
   </a>
 </h1>
   
-  - 🗺️ Mineiro de Cataguases, 26 anos
-  - 🌐 Desenvolvedor Web Fullstack mas com uma paixão pelo Front-End
-  - 💚 Atualmente estudando na Trybe
+  - 🗺️ Mineiro de Cataguases, 27 anos
+  - 🌐 Desenvolvedor Web Fullstack
   - 👨‍ Meu objetivo é colaborar com projetos que me façam aprender e agreguem valor para a sociedade!
   - 🕹️ Amante de jogos, competições e codar
   - 🤹 Sempre aprendendo algo novo 
-  - 🎯 Estou praticando TypeScript com POO.
+  - 🎯 Estou praticando .NET 6 e Delphi Xe8.
   - 🏰 Arquiteturas e princípios: MSC, POO, SOLID.
 <br>
 
