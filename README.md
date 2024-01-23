@@ -12,7 +12,6 @@
   - 🕹️ Amante de jogos, competições e codar
   - 🤹 Sempre aprendendo algo novo 
   - 🎯 Estou praticando .NET 6 e Delphi Xe8.
-  - 🏰 Arquiteturas e princípios: MSC, POO, SOLID.
 <br>
 
 ## Conhecimento 💻🚀
